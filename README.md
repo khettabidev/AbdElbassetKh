@@ -41,19 +41,19 @@ Available for remote contracts and freelance projects worldwide.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=khettabidev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="165"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khettabidev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
     height="165"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=[GITHUB_USERNAME]&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=khettabidev&theme=tokyonight&hide_border=true"
   />
 </p>
 
