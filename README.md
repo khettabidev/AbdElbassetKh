@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer** · Remote · Algeria (GMT+1)
 
-I build production-ready web apps and APIs — React, Next.js, FastAPI, PostgreSQL —
+I build production-ready web apps and APIs - React, Next.js, FastAPI, PostgreSQL -
 with a focus on clean architecture, async delivery, and AI-integrated products.
 Available for remote contracts and freelance projects worldwide.
 
