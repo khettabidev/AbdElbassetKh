@@ -54,6 +54,7 @@ Available for remote contracts and freelance projects worldwide.
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=khettabidev&theme=tokyonight&hide_border=true"
+    height="165"
   />
 </p>
 
