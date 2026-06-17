@@ -62,9 +62,9 @@ Available for remote contracts and freelance projects worldwide.
 
 ## 🔨 What I'm Currently Building
 
-- **[SaaS Starter Kit](https://github.com/khettabidev/nextjs-saas-starter)** — Production-ready Next.js 14 boilerplate: Prisma + PostgreSQL + Stripe + Auth.js + Docker
-- **[AI Document Assistant](https://github.com/khettabidev/rag-document-assistant)** — FastAPI + React + RAG pipeline with OpenAI Embeddings, pgvector, and streaming responses
-- **[Dockerized Full-Stack App](https://github.com/khettabidev/dockerized-fullstack-app)** — Multi-container deployment on Railway via GitHub Actions CI/CD
+- **[SaaS Starter Kit](https://github.com/khettabidev/nextjs-saas-starter)** - Production-ready Next.js 14 boilerplate: Prisma + PostgreSQL + Stripe + Auth.js + Docker
+- **[AI Document Assistant](https://github.com/khettabidev/rag-document-assistant)** - FastAPI + React + RAG pipeline with OpenAI Embeddings, pgvector, and streaming responses
+- **[Dockerized Full-Stack App](https://github.com/khettabidev/dockerized-fullstack-app)** - Multi-container deployment on Railway via GitHub Actions CI/CD
 
 ---
 
