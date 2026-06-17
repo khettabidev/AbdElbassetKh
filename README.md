@@ -1,4 +1,4 @@
-# [Abd Elbasset Khettabi]
+# Abd Elbasset Khettabi
 
 **Full-Stack Engineer** · Remote · Algeria (GMT+1)
 
