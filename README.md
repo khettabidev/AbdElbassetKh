@@ -71,7 +71,7 @@ Available for remote contracts and freelance projects worldwide.
 ## 🤝 Let's Connect & Work Together
 
 <p>
-  <a href="[https://khettabidev.vercel.app/]">
+  <a href="https://khettabidev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/khettabidev/">
